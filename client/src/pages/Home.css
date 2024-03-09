@@ -1,0 +1,13 @@
+.home-container {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+    margin: 2rem auto;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 2px 0px 35px -3px rgba(0, 69, 66, 0.16);
+  }
+  
