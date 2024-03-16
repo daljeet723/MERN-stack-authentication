@@ -48,7 +48,8 @@ body {
 }
 
 .error {
-  color: red;
-  font-size: 10px;
-  width: 160px;
+  padding-top: 0.2rem;
+  color: #D04848;
+  font-size: 0.6rem;
+  width: 100%;
 }
