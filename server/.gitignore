@@ -3,3 +3,4 @@ build/
 .eslintcache
 
 dist/
+.env
